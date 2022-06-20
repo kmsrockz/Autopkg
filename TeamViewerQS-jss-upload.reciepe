@@ -16,7 +16,7 @@
     <key>MinimumVersion</key>
     <string>0.2.0</string>
     <key>ParentRecipe</key>
-    <string>com.github.homebysix.pkg.TeamViewerQuickSupport</string>
+    <string>io.github.hjuutilainen.pkg.TeamViewerQS</string>
     <key>Process</key>
     <array>
         <dict>
